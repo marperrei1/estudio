@@ -1,6 +1,6 @@
 public class hola{
 	private String ivan;
-	public hola(){
-		this.ivan = "guapo";
+	public hola(String s){
+		this.ivan = s;
 	}
 }
